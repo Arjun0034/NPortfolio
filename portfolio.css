@@ -43,7 +43,7 @@ nav a {
 
 /* Hero section styles */
 #hero {
-  background-image: url('hero-background.jpg');
+  background-image: url('Kerfin7_NEA_2341.jpg');
   background-size: cover;
   background-position: center;
   height: 500px;
@@ -92,6 +92,22 @@ nav a {
 
 #about p {
   color: #fff;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+
+/* Skill section styles */
+#skills {
+  background-color: #232323; /* Set your desired grey color */
+  padding: 50px 0;
+  text-align: center;
+  color: #fff; /* Set text color for better visibility on grey background */
+}
+
+#skills-content p {
+  
+  
   max-width: 800px;
   margin: 0 auto;
 }
